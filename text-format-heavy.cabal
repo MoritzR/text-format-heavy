@@ -7,7 +7,7 @@ cabal-version: 1.12
 -- hash: e11146b03cc10b79134bc34ce77412a14f480aac6d97da94db3deafa7d2a93cb
 
 name:           text-format-heavy
-version:        0.1.5.2
+version:        0.1.5.3-patched
 synopsis:       Full-weight string formatting library, analog of Python's string.format
 description:    This package contains full-featured string formatting function, similar to Python's string.format. Features include:
                 * Automatically numbered variable placeholders;
